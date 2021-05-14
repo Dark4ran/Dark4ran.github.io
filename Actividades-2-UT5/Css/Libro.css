@@ -1,12 +1,3 @@
-busquedaLibros{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-libreria{
-    display: table;
-}
-libro{
-    display: table-cell;
+p{
+    background-color: blue;
 }
