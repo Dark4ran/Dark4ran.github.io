@@ -12,4 +12,4 @@ function gestionarFicheroXML(xmlDoc){
 	}
 }
 
-loadDocA("../Xml.xml","xml");
+loadDocA("../conv.xml","xml");
