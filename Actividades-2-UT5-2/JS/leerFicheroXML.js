@@ -7,3 +7,4 @@ function gestionarFicheroXML(xmlDoc){
 //		for(let i=0; i<con.length; i++)
 //			capaVacia.innerHTML = capaVacia.innerHTML + "<p class='cons'>" + con[i].textContent + "</p>"
 }
+loadLDocA("../conv.xml","xml");
