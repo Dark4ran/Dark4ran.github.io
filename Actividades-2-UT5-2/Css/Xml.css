@@ -1,8 +1,8 @@
 .cons
 {
     background-color: rgb(14, 199, 143);
-    width: 10vw;
     display: flex;
+    width: 10vw;
     justify-content: flex-start;
     align-items: center;
 }
@@ -16,7 +16,8 @@
 }
 div
 {
+    min-height: 100vh;
+    max-width: 100vw;
 display: flex;
 flex-direction: column;
-
 }
