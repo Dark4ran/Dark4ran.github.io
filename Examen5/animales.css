@@ -1,0 +1,8 @@
+p
+{
+    background-color: blue;
+}
+p:nth-child(2n)
+{
+    background-color: chartreuse;
+}
