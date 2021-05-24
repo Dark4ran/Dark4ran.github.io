@@ -1,0 +1,14 @@
+<cuerpo>
+    <animal>
+        <nombre>Simba</nombre>
+        <tipo>León</tipo>
+        <especie>Mamífero</especie>
+        <edad>12</edad>
+    </animal>
+    <animal>
+        <nombre>Pedro</nombre>
+        <tipo>Jirafa</tipo>
+        <especie>Mamífero</especie>
+        <edad>5</edad>
+    </animal>
+</cuerpo>
